@@ -1,0 +1,15 @@
+.realisations {
+    margin: 40px 70px 0px;
+  
+    .realisations-container {
+        margin-top: 60px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        gap: 10px;
+
+        .realisation{
+            width: 47%;
+        }
+    }
+}  
