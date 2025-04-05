@@ -47,8 +47,8 @@ const Navbar = () => {
               
               {/* Logo Text */}
               <div className="flex flex-col">
-                <span className="text-xl font-bold text-neutral-900 tracking-tight">Othmane</span>
-                <span className="text-xs text-neutral-500 tracking-widest uppercase -mt-1">Developer</span>
+                <span className="text-xl font-bold text-neutral-900 tracking-tight">Ba7mou</span>
+                <span className="text-xs text-neutral-500 tracking-widest uppercase -mt-1">Software Engineer</span>
               </div>
               
               {/* Animated Underline */}

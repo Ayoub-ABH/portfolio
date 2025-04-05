@@ -57,7 +57,7 @@ const Hero = () => {
               className="inline-flex items-center gap-2 bg-[#f3f3f3] px-6 py-3 group cursor-default hover:shadow-lg transition-shadow duration-300"
             >
               <span className="text-sm font-medium text-neutral-900">
-                HELLO I'M OTHMANE BOUCHTA
+                HELLO I'M AYOUB AIT BABA HAMOU
               </span>
               <motion.div
                 animate={{
@@ -105,7 +105,7 @@ const Hero = () => {
                 variants={textVariants}
               >
                 <h1 className="text-[52px] md:text-[64px] font-bold leading-tight">
-                  DEVELOPER
+                  SOFTWARE ENGINEER
                 </h1>
               </motion.div>
 
@@ -211,7 +211,7 @@ const Hero = () => {
               />
               <img
                 src="/hero.JPG"
-                alt="Othmane BOUCHTA"
+                alt="Ayoub AIT BABA HAMOU"
                 className="relative w-full h-full object-cover object-top transition-all duration-700 group-hover:scale-[1.02]"
               />
             </div>
