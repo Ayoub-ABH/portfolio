@@ -1,5 +1,5 @@
-## My porfolio
+# My porfolio
 
-# Coming soon ...
+## Coming soon ...
 
 
