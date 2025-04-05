@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+  
+  body {
+    @apply bg-white text-neutral-900;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* Custom heading style */
+.heading-shadow {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
